@@ -1,6 +1,6 @@
 ## [Read this page in English](https://github.com/ojeffpinheiro01/move-it)
 
-<img align="right" src="imgs/icon.svg" width="45%" alt="Move.it">
+<h1 align="center"><img src="https://user-images.githubusercontent.com/60162736/108780878-d022c700-7547-11eb-9288-63242915c9ad.png"></h1>
 
 ## Menu
 
